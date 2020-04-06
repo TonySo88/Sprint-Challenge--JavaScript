@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What is the difference between a function and a method?
 
-A function is a piece of reusable code. A method is like a function, but exists within object oriented programming.
+A function is a piece of reusable code. A method is like a function, but exists within an object.
 
 3. What is closure?
 
